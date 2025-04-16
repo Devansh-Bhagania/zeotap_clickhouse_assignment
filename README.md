@@ -13,7 +13,7 @@ This application provides a user-friendly interface for:
 
 ## Screenshot
 
-![Application Interface]('https://res.cloudinary.com/defttssx1/image/upload/v1744821128/rb7hy1ejauyxgnv34ylg.png)
+![Application Interface](https://res.cloudinary.com/defttssx1/image/upload/v1744821128/rb7hy1ejauyxgnv34ylg.png)
 
 ## Features
 
