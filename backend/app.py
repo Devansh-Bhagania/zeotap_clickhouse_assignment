@@ -23,7 +23,7 @@ def connect_clickhouse():
         client = clickhouse_driver.Client(
              host='n9s4i8yf4f.germanywestcentral.azure.clickhouse.cloud',
         user='default',
-        password='~E_9uBp~OjH5o',
+        password='**********',
         secure=True
         )
         
@@ -50,7 +50,7 @@ def get_table_schema():
         client = clickhouse_driver.Client(
              host='n9s4i8yf4f.germanywestcentral.azure.clickhouse.cloud',
         user='default',
-        password='~E_9uBp~OjH5o',
+        password='**********',
         secure=True
         )
         
@@ -105,7 +105,7 @@ def clickhouse_to_flat_file():
         client = clickhouse_driver.Client(
              host='n9s4i8yf4f.germanywestcentral.azure.clickhouse.cloud',
         user='default',
-        password='~E_9uBp~OjH5o',
+        password='**********',
         secure=True
         )
         
@@ -166,7 +166,7 @@ def flat_file_to_clickhouse():
         client = clickhouse_driver.Client(
              host='n9s4i8yf4f.germanywestcentral.azure.clickhouse.cloud',
         user='default',
-        password='~E_9uBp~OjH5o',
+        password='**********',
         secure=True
         )
         
@@ -224,7 +224,7 @@ def preview_data():
             client = clickhouse_driver.Client(
                   host='n9s4i8yf4f.germanywestcentral.azure.clickhouse.cloud',
         user='default',
-        password='~E_9uBp~OjH5o',
+        password='**********',
         secure=True
             )
             
@@ -307,7 +307,7 @@ def multi_table_join():
         client = clickhouse_driver.Client(
             host='n9s4i8yf4f.germanywestcentral.azure.clickhouse.cloud',
         user='default',
-        password='~E_9uBp~OjH5o',
+        password='**********',
         secure=True
         )
         
