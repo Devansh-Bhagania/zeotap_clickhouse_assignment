@@ -11,6 +11,10 @@ This application provides a user-friendly interface for:
 - Previewing data before transfer
 - Managing multi-table joins
 
+## Screenshot
+
+![Application Interface](screenshots/Screenshot%202025-04-16%20211803.png)
+
 ## Features
 
 - **Bidirectional Data Transfer**: Import from flat files to ClickHouse or export from ClickHouse to flat files
