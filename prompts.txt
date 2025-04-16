@@ -1,0 +1,8 @@
+1.	"Create React components for a data ingestion tool with source selection, config, column selection, preview, and actions."
+2.	"Update React components to use custom CSS, remove Bootstrap, ensure responsive design."
+3.	"Generate a Flask backend for ClickHouse and CSV ingestion with endpoints for connection, schema, preview, and joins."
+4.	"Write Python code for ClickHouse Cloud connection and schema fetching."
+5.	"Create Python code for CSV to ClickHouse import with dynamic table creation."
+6.	"Implement safe multi-table join logic in Python for ClickHouse."
+7.	"Add error handling to Flask backend."
+8.	"Create a concise Markdown docs file for the project."
